@@ -1,0 +1,65 @@
+{
+  "plans_dirs": [
+    "D:/workspace/项目管理工作台/pm_workbench/real_plans"
+  ],
+  "file_glob": "*.xlsx",
+  "sheet_name": "Project Plan",
+  "header_row": 0,
+  "project_id_cell": "B1",
+  "require_task": true,
+  "columns": {
+    "task": "Task ID",
+    "subtask": "Task Description",
+    "owner": "Owner",
+    "plan_start": "Start Date",
+    "plan_end": "Finish Date",
+    "status": "Status"
+  },
+  "status_map": {
+    "完成": "done",
+    "已完成": "done",
+    "closed": "done",
+    "completed": "done",
+    "complete": "done",
+    "finished": "done",
+    "done": "done",
+    "进行中": "doing",
+    "已开始": "doing",
+    "ongoing": "doing",
+    "in progress": "doing",
+    "doing": "doing",
+    "started": "doing",
+    "delayed": "doing",
+    "未开始": "todo",
+    "待启动": "todo",
+    "to be started": "todo",
+    "to be start": "todo",
+    "not started": "todo",
+    "pending": "todo",
+    "planned": "todo",
+    "n/a": "todo"
+  },
+  "status_write_labels": {
+    "doing": "Ongoing",
+    "todo": "To be start",
+    "done": "Completed"
+  },
+  "risk": {
+    "deadline_warn_days": 0,
+    "overdue_grace_days": 1
+  },
+  "updated_dir": "data/updated_plans",
+  "write_back_excel": true,
+  "flush_interval_minutes": 180,
+  "window_backdrop": "none",
+  "extend_frame": false,
+  "transparent_window": true,
+  "titlebar_alpha": 0.45,
+  "window_radius_px": 8,
+  "caption_color": "#17181c",
+  "mail_to": null,
+  "db_path": "data/workbench.db",
+  "output_dir": "output",
+  "titlebar_blur_px": 12,
+  "titlebar_dim": 1.0
+}

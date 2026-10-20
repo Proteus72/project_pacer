@@ -1,0 +1,130 @@
+{
+ "VASQ Project Plan_20260926.xlsx|VSQ-017|GMP materials purchasing and release|2026-09-04": {
+  "done_at": "2026-10-14 13:38",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-017",
+   "subtask": "GMP materials purchasing and release",
+   "owner": "Zhijun Huang",
+   "plan_start": "2026-09-04",
+   "plan_end": "2026-09-10",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 30
+  }
+ },
+ "VASQ Project Plan_20260926.xlsx|VSQ-040|Step 5 MBR drafte by Taizhou Langhua|2026-09-07": {
+  "done_at": "2026-10-14 13:39",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-040",
+   "subtask": "Step 5 MBR drafte by Taizhou Langhua",
+   "owner": "Jingdong Zhang",
+   "plan_start": "2026-09-07",
+   "plan_end": "2026-10-05",
+   "status": "todo",
+   "status_raw": "To be start",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 60
+  }
+ },
+ "VASQ Project Plan_20260926.xlsx|VSQ-037|Step 4 MBR drafted by Taizhou Langhua|2026-09-07": {
+  "done_at": "2026-10-14 13:39",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-037",
+   "subtask": "Step 4 MBR drafted by Taizhou Langhua",
+   "owner": "Jingdong Zhang",
+   "plan_start": "2026-09-07",
+   "plan_end": "2026-10-05",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 56
+  }
+ },
+ "VASQ Project Plan_20260926.xlsx|VSQ-034|Step 3 MBR drafted by Taizhou Langhua|2026-09-07": {
+  "done_at": "2026-10-14 13:39",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-034",
+   "subtask": "Step 3 MBR drafted by Taizhou Langhua",
+   "owner": "Jingdong Zhang",
+   "plan_start": "2026-09-07",
+   "plan_end": "2026-10-05",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 52
+  }
+ },
+ "VASQ Project Plan_20260926.xlsx|VSQ-033|Process Safety Assessment|2026-09-15": {
+  "done_at": "2026-10-14 13:39",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-033",
+   "subtask": "Process Safety Assessment",
+   "owner": "Hongbo Li/Wei Xu",
+   "plan_start": "2026-09-15",
+   "plan_end": "2026-10-10",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 50
+  }
+ },
+ "AR882 Project Plan_Sobi & Arthrosi_20260929Sam.xlsx|AR-072|Establish PPQ interim report for AS00N(AR882)|2026-09-20": {
+  "done_at": "2026-10-14 13:39",
+  "snapshot": {
+   "project": "AR882",
+   "task": "AR-072",
+   "subtask": "Establish PPQ interim report for AS00N(AR882)",
+   "owner": "Xubo Zheng",
+   "plan_start": "2026-09-20",
+   "plan_end": "2026-09-24",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\AR882 Project Plan_Sobi & Arthrosi_20260929Sam.xlsx",
+   "source_row": 91
+  }
+ },
+ "AR882 Project Plan_Sobi & Arthrosi_20260929Sam.xlsx|AR-073|Shipment of AR882 (Prospective batch)|2026-09-25": {
+  "done_at": "2026-10-14 14:59",
+  "snapshot": {
+   "project": "AR882",
+   "task": "AR-073",
+   "subtask": "Shipment of AR882 (Prospective batch)",
+   "owner": "Aiming Peng",
+   "plan_start": "2026-09-25",
+   "plan_end": "2026-10-01",
+   "status": "todo",
+   "status_raw": "To be start",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\AR882 Project Plan_Sobi & Arthrosi_20260929Sam.xlsx",
+   "source_row": 92
+  }
+ },
+ "VASQ Project Plan_20260926.xlsx|VSQ-027|Step 9 Synthesis&IPC in Taizhou Langhua|2026-09-28": {
+  "done_at": "2026-10-14 15:04",
+  "snapshot": {
+   "project": "VASQ352",
+   "task": "VSQ-027",
+   "subtask": "Step 9 Synthesis&IPC in Taizhou Langhua",
+   "owner": "Zongjun Liu/Lili Chen",
+   "plan_start": "2026-09-28",
+   "plan_end": "2026-10-05",
+   "status": "doing",
+   "status_raw": "Ongoing",
+   "predecessors": null,
+   "source_file": "D:\\workspace\\项目管理工作台\\pm_workbench\\real_plans\\VASQ Project Plan_20260926.xlsx",
+   "source_row": 42
+  }
+ }
+}
